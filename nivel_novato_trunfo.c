@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+//Aluno: Glábio Pereira
+//Análise e Desenvolvimento de Sistemas
+
 /*
 Por organização, e para evitar poluição visual, 
 variáveis no cabeçalho do código, antes da função 'main':
@@ -85,3 +88,4 @@ int main(){
     return 0; // indica ao sitema operacional que o programa terminou com sucesso
 
 }
+

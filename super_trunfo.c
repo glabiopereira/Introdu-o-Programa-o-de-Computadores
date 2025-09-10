@@ -28,7 +28,7 @@ int main(){
     printf("\nDe '01' a '04', digite um número para compor, com a letra '%c', o código de cadastro da carta em questão:", estado1);
     scanf(" %s", numero1); //O espaço informa ao scanf para ignorar qualquer caractere de espaço em branco anterior
 
-    printf("\nDigite, sem espaçamento, o nome da cidade:");
+    printf("\nDigite, sem espaçamento(s), o nome da cidade:");
     scanf("%s", nome1);
 
     printf("\nDigite o número atualizado de habitantes:");
